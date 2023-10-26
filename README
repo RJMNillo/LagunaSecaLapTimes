@@ -1,0 +1,12 @@
+The purpose of this repository is to provide a hopefully readable and adequate CSV version of the lap times of Laguna Seca (Post 1988 revision).
+
+Laguna Seca is one of America's most popular tracks for professional drivers and enthusiasts go. The track is around at least 3-wide and contains multiple high and low speed turns.
+
+The data was extracted from FastestLaps, a database on vehicles and their lap performances updated by users in said site, through the use of Requests, some pandas, and some soup.
+
+As a seemingly user-run site (as multiple people send in cars and lap times), some of the information will not be properly address, such as engine type and transmission. Other caveats include:
+- no way for the URL to show filters, meaning that the defaults (both starts, stock, modded, and race cars) are part of the data.
+
+- References to track time proofs may provide completely different page setups, meaning no reliable way of showing track conditions (rain, clear, fog, snow if it happens), date, temperature, and sector times. The Unplugged Performance Teslas and the Gunther Werks 993 lap times are examples.
+
+- There could be a good chance that one of these lap times could be fake :(
