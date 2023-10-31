@@ -1,0 +1,14 @@
+Table 1
+Car,Year,Time,PS,Weight_KG,Displacement,Car_type,Country_of_Origin,Layout,Drivetrain
+Ford Mustang GTD,2023,132.67,810,1580,5.2,Coupe,United States,front engine,rear wheel drive
+Porsche 911 GT3 (992),2021,132.67,510,1418,4.0,Coupe,Germany,rear engine,rear wheel drive
+Porsche 911 GT3 RS (992),2023,132.67,525,1454,4.0,Coupe,Germany,rear engine,rear wheel drive
+Mercedes-Benz CLK DTM,2004,132.67,582,1678,5.4,Coupe,Germany,front engine,rear wheel drive
+Chevrolet Corvette Z06 (C8),2022,132.67,679,1654,5.5,Coupe,United States,middle engine,rear wheel drive
+Chevrolet Corvette ZR1 (C7),2018,132.67,765,1614,6.2,Coupe,United States,front engine,rear wheel drive
+Ford GT,2004,132.67,550,1538,5.4,Coupe,United States,middle engine,rear wheel drive
+Ford GT MK2,2017,132.67,656,1385,3.5,Coupe,United States,middle engine,rear wheel drive
+Nissan GTR Nismo,2015,132.67,600,1720,3.8,Coupe,Japan,front engine,all wheel drive
+MG XPower SV-R,2004,132.67,385,1580,5.0,Coupe,United Kingdom,front engine,rear wheel drive
+Alfa Romeo Giulia GTAm,2021,132.67,539,1520,2.9,4-door Saloon,Italy,front engine,rear wheel drive
+Jaguar XE SV Project 8,2017,132.67,600,1670,5.0,4-door Saloon,United Kingdom,front engine,rear wheel drive
