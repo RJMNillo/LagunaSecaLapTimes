@@ -1,13 +1,13 @@
 Car,Year,Time,PS,Weight_KG,Displacement,Car_type,Country_of_Origin,Engine_Layout,Drivetrain
-Ford Mustang GTD,2025,93.67264238710715,810,1580,5.2,Coupe,United States,front engine,rear wheel drive
-Porsche 911 GT3 (992),2021,91.23897454316372,510,1418,4.0,Coupe,Germany,rear engine,rear wheel drive
-Porsche 911 GT3 RS (992),2023,91.88797071072618,525,1454,4.0,Coupe,Germany,rear engine,rear wheel drive
-Mercedes-Benz CLK DTM,2004,101.19967798119488,582,1678,5.4,Coupe,Germany,front engine,rear wheel drive
-Chevrolet Corvette Z06 (C8),2022,93.36739810949554,679,1654,5.5,Coupe,United States,middle engine,rear wheel drive
-Chevrolet Corvette ZR1 (C7),2018,95.04945720629513,765,1614,6.2,Coupe,United States,front engine,rear wheel drive
-Ford GT,2004,101.66165648110703,550,1538,5.4,Coupe,United States,middle engine,rear wheel drive
-Ford GT MK2,2017,88.85567545744756,656,1385,3.5,Coupe,United States,middle engine,rear wheel drive
-Nissan GTR Nismo,2015,94.68479669804455,600,1720,3.8,Coupe,Japan,front engine,all wheel drive
-MG XPower SV-R,2004,111.49628202924897,385,1580,5.0,Coupe,United Kingdom,front engine,rear wheel drive
-Alfa Romeo Giulia GTAm,2021,97.42640303581511,539,1520,2.9,4-door saloon,Italy,front engine,rear wheel drive
-Jaguar XE SV Project 8,2017,98.77172102160061,600,1670,5.0,4-door saloon,United Kingdom,front engine,rear wheel drive
+Ford Mustang GTD,2025,87.94990587912935,810,1580,5.2,Coupe,United States,front engine,rear wheel drive
+Porsche 911 GT3 (992),2021,89.24373181271676,510,1418,4.0,Coupe,Germany,rear engine,rear wheel drive
+Porsche 911 GT3 RS (992),2023,89.08046381227769,525,1454,4.0,Coupe,Germany,rear engine,rear wheel drive
+Mercedes-Benz CLK DTM,2004,101.23475222849247,582,1678,5.4,Coupe,Germany,front engine,rear wheel drive
+Chevrolet Corvette Z06 (C8),2022,92.05263301240731,679,1654,5.5,Coupe,United States,middle engine,rear wheel drive
+Chevrolet Corvette ZR1 (C7),2018,91.13378137883066,765,1614,6.2,Coupe,United States,front engine,rear wheel drive
+Ford GT,2004,98.58236649569923,550,1538,5.4,Coupe,United States,middle engine,rear wheel drive
+Ford GT MK2,2017,83.05527477014593,656,1385,3.5,Coupe,United States,middle engine,rear wheel drive
+Nissan GTR Nismo,2015,94.15575469695949,600,1720,3.8,Coupe,Japan,front engine,all wheel drive
+MG XPower SV-R,2004,110.34248758417087,385,1580,5.0,Coupe,United Kingdom,front engine,rear wheel drive
+Alfa Romeo Giulia GTAm,2021,97.09940323678927,539,1520,2.9,4-door saloon,Italy,front engine,rear wheel drive
+Jaguar XE SV Project 8,2017,98.5027300616909,600,1670,5.0,4-door saloon,United Kingdom,front engine,rear wheel drive

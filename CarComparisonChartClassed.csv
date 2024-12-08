@@ -1,13 +1,13 @@
 Car,Year,Time,PS,Weight_KG,Displacement,Car_type,Country_of_Origin,Engine_Layout,Drivetrain,Cluster
-Ford Mustang GTD,2025,132.67,810,1580,5.2,Coupe,United States,front engine,rear wheel drive,6
-Porsche 911 GT3 (992),2021,132.67,510,1418,4.0,Coupe,Germany,rear engine,rear wheel drive,1
-Porsche 911 GT3 RS (992),2023,132.67,525,1454,4.0,Coupe,Germany,rear engine,rear wheel drive,1
-Mercedes-Benz CLK DTM,2004,132.67,582,1678,5.4,Coupe,Germany,front engine,rear wheel drive,4
+Ford Mustang GTD,2025,132.67,810,1580,5.2,Coupe,United States,front engine,rear wheel drive,0
+Porsche 911 GT3 (992),2021,132.67,510,1418,4.0,Coupe,Germany,rear engine,rear wheel drive,6
+Porsche 911 GT3 RS (992),2023,132.67,525,1454,4.0,Coupe,Germany,rear engine,rear wheel drive,6
+Mercedes-Benz CLK DTM,2004,132.67,582,1678,5.4,Coupe,Germany,front engine,rear wheel drive,3
 Chevrolet Corvette Z06 (C8),2022,132.67,679,1654,5.5,Coupe,United States,middle engine,rear wheel drive,5
-Chevrolet Corvette ZR1 (C7),2018,132.67,765,1614,6.2,Coupe,United States,front engine,rear wheel drive,6
-Ford GT,2004,132.67,550,1538,5.4,Coupe,United States,middle engine,rear wheel drive,3
+Chevrolet Corvette ZR1 (C7),2018,132.67,765,1614,6.2,Coupe,United States,front engine,rear wheel drive,0
+Ford GT,2004,132.67,550,1538,5.4,Coupe,United States,middle engine,rear wheel drive,4
 Ford GT MK2,2017,132.67,656,1385,3.5,Coupe,United States,middle engine,rear wheel drive,5
-Nissan GTR Nismo,2015,132.67,600,1720,3.8,Coupe,Japan,front engine,all wheel drive,2
-MG XPower SV-R,2004,132.67,385,1580,5.0,Coupe,United Kingdom,front engine,rear wheel drive,4
-Alfa Romeo Giulia GTAm,2021,132.67,539,1520,2.9,4-door saloon,Italy,front engine,rear wheel drive,0
-Jaguar XE SV Project 8,2017,132.67,600,1670,5.0,4-door saloon,United Kingdom,front engine,rear wheel drive,0
+Nissan GTR Nismo,2015,132.67,600,1720,3.8,Coupe,Japan,front engine,all wheel drive,1
+MG XPower SV-R,2004,132.67,385,1580,5.0,Coupe,United Kingdom,front engine,rear wheel drive,3
+Alfa Romeo Giulia GTAm,2021,132.67,539,1520,2.9,4-door saloon,Italy,front engine,rear wheel drive,2
+Jaguar XE SV Project 8,2017,132.67,600,1670,5.0,4-door saloon,United Kingdom,front engine,rear wheel drive,2
